@@ -1,6 +1,6 @@
 # Markdown Links
 
-## Índice
+## Plan de acción
 
 * [1. Preámbulo](#1-preámbulo)
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
@@ -631,3 +631,10 @@ cuenta utilizando **new Promise()**
 
 Es importante que sepas qué es un **callback** pues las
 promesas los utilizarán.
+
+
+### Diagrama de flujo 
+
+
+
+
